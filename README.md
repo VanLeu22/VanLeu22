@@ -1,9 +1,9 @@
-<h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm an aspiring <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a>, with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
+<h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm an aspiring <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
-<h2>👨‍💻 My recent Projects:</h2>
+<h2>👨‍💻 Check out some of my recent projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Project</b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/VanLeu22/Azure-Cloud-SOC)
+- <b>Microsoft Azure / Cloud Cybersecurity Project</b>
+  - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/VanLeu22/Azure-Cloud-SOC)
 <!-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
