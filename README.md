@@ -6,7 +6,7 @@
   - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/VanLeu22/Azure-Cloud-SOC)
  
 - **Governance, Risk and Compliance Capstone Project**
-  - [Design comprehensive Cyber Security Program using the NIST CSF 2.0 Framework](https://github.com/VanLeu22/GRC-Capstone/blob/main/README.md) 
+  - [Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/VanLeu22/GRC-Capstone/blob/main/README.md) 
 
 <!-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
