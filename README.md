@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm an aspiring <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
+<h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm a <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
 <h2>👨‍💻 Check out some of my recent projects:</h2>
 
