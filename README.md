@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Check out some of my recent projects:</h2>
 
-- <b>Microsoft Azure / Cloud Cybersecurity Project</b>
+- <b>Security Operations and Incident Response / Cloud Cybersecurity Project</b>
   - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/VanLeu22/Azure-Cloud-SOC)
  
 - **Governance, Risk and Compliance Capstone Project**
