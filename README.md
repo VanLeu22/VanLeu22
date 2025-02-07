@@ -1,6 +1,9 @@
 <h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm a <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
-<h2>👨‍💻 Check out some of my recent projects:</h2>
+<h2>👨‍💻 My recent cybersecurity projects:</h2>
+
+- **Vulnerability Management Projects**
+  - [Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management](https://github.com/VanLeu22/Vulnerability-Management-Program)
 
 - <b>Security Operations and Incident Response / Cloud Cybersecurity Project</b>
   - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/VanLeu22/Azure-Cloud-SOC)
