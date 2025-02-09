@@ -16,7 +16,7 @@
 
 <h2>💬 Articles written</h2>
 
-  - [The Imperative of Cybersecurity Assessments in the Modern Corporate Environment](https://www.linkedin.com/pulse/imperative-cybersecurity-assessments-modern-corporate-simon-vanleuven-jsgpe/?trackingId=xayuYQMv%2B9FpYmY%2Bcc6LQA%3D%3D)
+  - [The Imperative of Cybersecurity Assessments in the Modern Corporate Environment](https://github.com/VanLeu22/Imperative-of-Cybersecurity-Assessments)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
