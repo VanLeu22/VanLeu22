@@ -1,3 +1,5 @@
+![Banner2_1](https://github.com/user-attachments/assets/fb0117c1-4e4d-4093-98b3-aa8f99345de2)
+
 <h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm a <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Professional</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
