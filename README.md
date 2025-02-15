@@ -14,9 +14,10 @@
   - [Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/VanLeu22/GRC-Capstone/blob/main/README.md) 
 
 
-<h2>💬 Articles written</h2>
+<h2>💬 BLOG</h2>
 
   - [The Imperative of Cybersecurity Assessments in the Modern Corporate Environment](https://github.com/VanLeu22/Imperative-of-Cybersecurity-Assessments)
+  - [Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/VanLeu22/BLOG/tree/main)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
