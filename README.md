@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- **Vulnerability Management Projects**
+- **Vulnerability Management Program Implementation**
   - [Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management](https://github.com/VanLeu22/Vulnerability-Management-Program)
 
 - <b>Security Operations and Incident Response / Cloud Cybersecurity Project</b>
