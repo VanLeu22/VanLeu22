@@ -16,6 +16,7 @@
 
 <h2>💬 BLOG</h2>
 
+  - ⚡⚡NEW⚡⚡  [Heavy Lifting in Cybersecurity: How Physical Wellness Powers Your Performance](https://github.com/VanLeu22/Heavy-Lifting-in-Cybersecurity-How-Physical-Wellness-Powers-Your-Performance/blob/main/README.md) April 3, 2025
   - [Backups to the Rescue: Why Recovery Is Key in Today’s Cyber Threats](https://github.com/VanLeu22/Backups-to-the-Rescue-Why-Recovery-Is-Key-in-Today-s-Cyber-Threats/blob/main/README.md) February 20, 2025
   - [Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/VanLeu22/BLOG/tree/main) February 15, 2025
   - [The Imperative of Cybersecurity Assessments in the Modern Corporate Environment](https://github.com/VanLeu22/Imperative-of-Cybersecurity-Assessments) February 8, 2025
