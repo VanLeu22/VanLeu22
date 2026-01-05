@@ -2,6 +2,8 @@
 
 <h1>Hi, I'm Simon! <!--<a href="https://github.com/joshmadakor1">Programmer</a>,-->I'm a <a href="https://www.linkedin.com/in/simon-vanleuven/">Cybersecurity Analyst</a> with over a decade of investigative experience. <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>-->
 
+I am a former Police Detective, and current multiple small business owner. Cybersecurity is my passion!
+
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - **Vulnerability Management Program Implementation**
